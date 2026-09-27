@@ -12,6 +12,7 @@
 \
 角色：**deepseek蓝色大肥鱼**\
 立绘来源：**[赤风RED](https://www.bilibili.com/video/BV1V88G6TEvg/?)  &  [EmoteLab](https://store.steampowered.com/app/4301100/EmoteLab/)**
+使用教程：
 
 ## 包含内容
 
@@ -32,7 +33,7 @@
 - `resources/left-keys/`：左侧按键图片资源
 - `*.mp3`：动作音效（惊讶、打招呼）
 
-> 注意：如果您想要 **删除动作音效**， **直接删除mp3文件**即可。\
+> 注意：如果您想要 **删除动作音效**， **直接删除mp3文件**即可。
 
 当前已包含的按键素材如下：
 
@@ -42,6 +43,6 @@
 - `Shift / Ctrl / Space`
 
 ## 特别鸣谢
-感谢 [阿特ers](https://www.bilibili.com/video/BV11rT164EWC/?) 开源的Bongocat项目文件和PSD工程文件，这给了我很多的帮助和参考；
-感谢 [赤风RED](https://www.bilibili.com/video/BV1V88G6TEvg/?) 分享的Emotelab角色配置文件，帮助我快速还原出蓝色大肥鱼；
-感谢 [常日缠](https://www.bilibili.com/video/BV17utZ6hE64/?) 开源的psd2live工具，帮助我省去了大半live2D中布点和分层的准备工作。
+-感谢 [阿特ers](https://www.bilibili.com/video/BV11rT164EWC/?) 开源的Bongocat项目文件和PSD工程文件，这给了我很多的帮助和参考；
+-感谢 [赤风RED](https://www.bilibili.com/video/BV1V88G6TEvg/?) 分享的Emotelab角色配置文件，帮助我快速还原出蓝色大肥鱼；
+-感谢 [常日缠](https://www.bilibili.com/video/BV17utZ6hE64/?) 开源的psd2live工具，帮助我省去了大半live2D中布点和分层的准备工作。
