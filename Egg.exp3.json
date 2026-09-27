@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"Type": "Live2D Expression",
+	"FadeInTime": 1,
+	"FadeOutTime": 1,
+	"Parameters": [
+		{
+			"Id": "SargonTea",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "MostimaCat",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "SkillReady",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

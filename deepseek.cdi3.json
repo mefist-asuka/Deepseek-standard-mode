@@ -1,0 +1,300 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroupFace",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroupFace",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroupFace",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroupEyes",
+			"Name": "左眼开合"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroupEyes",
+			"Name": "右眼开合"
+		},
+		{
+			"Id": "ParamEyeBallForm",
+			"GroupId": "ParamGroupEyes",
+			"Name": "果冻眼"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroupBrows",
+			"Name": "左眉 Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroupBrows",
+			"Name": "右眉 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroupMouth",
+			"Name": "嘴型"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroupMouth",
+			"Name": "嘴巴开合"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体角度 X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体角度 Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体角度 Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroupBody",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroupPhysics",
+			"Name": "前发摆动"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroupPhysics",
+			"Name": "后发摆动"
+		},
+		{
+			"Id": "ParamEarSwingR",
+			"GroupId": "ParamGroupPhysics",
+			"Name": "右耳摆动"
+		},
+		{
+			"Id": "ParamEarSwingL",
+			"GroupId": "ParamGroupPhysics",
+			"Name": "左耳摆动"
+		},
+		{
+			"Id": "ParamAhogeSwing",
+			"GroupId": "ParamGroupPhysics",
+			"Name": "呆毛摇动"
+		},
+		{
+			"Id": "Param_Angle_DeformBodyZBreath2",
+			"GroupId": "ParamGroup",
+			"Name": "[0]尾巴"
+		},
+		{
+			"Id": "Param_Angle_DeformBodyZBreath3",
+			"GroupId": "ParamGroup",
+			"Name": "[1]尾巴"
+		},
+		{
+			"Id": "Param_Angle_DeformBodyZBreath4",
+			"GroupId": "ParamGroup",
+			"Name": "[2]尾巴"
+		},
+		{
+			"Id": "ParamMouseY",
+			"GroupId": "ParamGroup2",
+			"Name": "鼠标Y"
+		},
+		{
+			"Id": "ParamMouseX",
+			"GroupId": "ParamGroup2",
+			"Name": "鼠标X"
+		},
+		{
+			"Id": "ParamMouseLeftDown",
+			"GroupId": "ParamGroup2",
+			"Name": "左键按下"
+		},
+		{
+			"Id": "ParamMouseRightDown",
+			"GroupId": "ParamGroup2",
+			"Name": "右键按下"
+		},
+		{
+			"Id": "CatParamLeftHandDown",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘按下"
+		},
+		{
+			"Id": "Bowl",
+			"GroupId": "ParamGroup3",
+			"Name": "不锈钢盆"
+		},
+		{
+			"Id": "Glasses",
+			"GroupId": "ParamGroup3",
+			"Name": "眼镜"
+		},
+		{
+			"Id": "StickyNotes",
+			"GroupId": "ParamGroup3",
+			"Name": "肥鱼贴纸"
+		},
+		{
+			"Id": "Hearting",
+			"GroupId": "ParamGroup3",
+			"Name": "冒爱心"
+		},
+		{
+			"Id": "SargonTea",
+			"GroupId": "ParamGroup3",
+			"Name": "萨尔贡浓茶"
+		},
+		{
+			"Id": "MostimaCat",
+			"GroupId": "ParamGroup3",
+			"Name": "小莫猫"
+		},
+		{
+			"Id": "SkillReady",
+			"GroupId": "ParamGroup3",
+			"Name": "技能就绪"
+		},
+		{
+			"Id": "Hellovisible",
+			"GroupId": "ParamGroup4",
+			"Name": "生姜手"
+		},
+		{
+			"Id": "Hello",
+			"GroupId": "ParamGroup4",
+			"Name": "打招呼"
+		},
+		{
+			"Id": "Surprised",
+			"GroupId": "ParamGroup4",
+			"Name": "惊讶"
+		},
+		{
+			"Id": "Sweat",
+			"GroupId": "ParamGroup4",
+			"Name": "冒汗"
+		},
+		{
+			"Id": "MouthOpen",
+			"GroupId": "ParamGroup4",
+			"Name": "张嘴"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroupFace",
+			"GroupId": "",
+			"Name": "面部"
+		},
+		{
+			"Id": "ParamGroupEyes",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroupBrows",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroupMouth",
+			"GroupId": "",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "ParamGroupBody",
+			"GroupId": "",
+			"Name": "身体"
+		},
+		{
+			"Id": "ParamGroupPhysics",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "键鼠"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "动作"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "PartHead",
+			"Name": "头部"
+		},
+		{
+			"Id": "PartExtra",
+			"Name": "附加物"
+		},
+		{
+			"Id": "PartBody",
+			"Name": "身体"
+		},
+		{
+			"Id": "PartHairBack",
+			"Name": "后发"
+		},
+		{
+			"Id": "PartFace",
+			"Name": "面部"
+		},
+		{
+			"Id": "PartHairFront",
+			"Name": "前发"
+		},
+		{
+			"Id": "PartHeadAccessories",
+			"Name": "头部附件"
+		},
+		{
+			"Id": "ArtMeshTail_Skinning",
+			"Name": "Tail(蒙皮)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"ParamMouseY",
+			"ParamMouseX"
+		]
+	]
+}

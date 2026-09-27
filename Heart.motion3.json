@@ -1,0 +1,66 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3.333,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 2,
+		"TotalSegmentCount": 6,
+		"TotalPointCount": 16,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Hearting",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0,
+				0.444,
+				11.056,
+				0.667,
+				15,
+				1,
+				1.333,
+				26.831,
+				2,
+				30,
+				2.667,
+				30,
+				0,
+				3.333,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "MouthOpen",
+			"Segments": [
+				0,
+				15,
+				1,
+				0.944,
+				15,
+				1.889,
+				15,
+				2.833,
+				15,
+				1,
+				2.844,
+				15,
+				2.856,
+				0,
+				2.867,
+				0,
+				0,
+				3.333,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "deepseek.moc3",
+		"Textures": [
+			"deepseek.4096/texture_00.png"
+		],
+		"Physics": "deepseek.physics3.json",
+		"DisplayInfo": "deepseek.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Bowl",
+				"File": "Bowl.exp3.json"
+			},
+			{
+				"Name": "Glasses",
+				"File": "Glasses.exp3.json"
+			},
+			{
+				"Name": "StickyNotes",
+				"File": "StickyNotes.exp3.json"
+			},
+			{
+				"Name": "Egg",
+				"File": "Egg.exp3.json"
+			}
+		],
+		"Motions": {
+			"CAT_motion_lock": [
+				{
+				"File": "Surprised.motion3.json",
+				"Sound": "Bingbingbing.mp3",
+				"FadeInTime": 0,
+				"FadeOutTime": 0
+				},
+				{
+				"File": "Hello.motion3.json",
+				"Sound": "Hello.mp3",
+				"FadeInTime": 0,
+				"FadeOutTime": 0
+				},
+				{
+				"File": "Sweat.motion3.json",
+				"FadeInTime": 0,
+				"FadeOutTime": 0
+				},
+				{
+				"File": "Heart.motion3.json",
+				"FadeInTime": 0,
+				"FadeOutTime": 0
+				}
+      ]
+    }
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

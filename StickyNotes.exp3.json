@@ -1,0 +1,13 @@
+{
+	"Version": 3,
+	"Type": "Live2D Expression",
+	"FadeInTime": 1,
+	"FadeOutTime": 1,
+	"Parameters": [
+		{
+			"Id": "StickyNotes",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}
