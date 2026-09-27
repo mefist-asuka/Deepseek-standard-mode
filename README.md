@@ -1,6 +1,6 @@
 # BongoCat deepseek桌宠 v1.0.0
 
-![项目封面](resources/cover.png)
+![项目封面](img/standard/cat_model/resources/cover.png)
 
 ## 项目简介
 
