@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-一个 [BongoCat]((https://bongocat.pet/)) 的自定义角色资源包。
+一个 [BongoCat](https://bongocat.pet/) 的自定义角色资源包。
 
 > 注意：当前仓库主要提供 **模型与素材资源**，并 **不包含完整的桌宠运行程序**。\
 > 实际运行请配合 [BongoCat](https://bongocat.pet/) 使用。
