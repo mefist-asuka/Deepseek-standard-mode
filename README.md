@@ -11,7 +11,7 @@
 
 \
 角色：**deepseek蓝色大肥鱼**\
-立绘来源：**[赤风RED](https://www.bilibili.com/video/BV1V88G6TEvg/?)  &  [EmoteLab](https://store.steampowered.com/app/4301100/EmoteLab/)**
+立绘来源：**[赤风RED](https://www.bilibili.com/video/BV1V88G6TEvg/?)  &  [EmoteLab](https://store.steampowered.com/app/4301100/EmoteLab/)**\
 使用教程：[mefist](https://www.bilibili.com/video/BV1bWaq6NEEV/?)
 
 ## 包含内容
